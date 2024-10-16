@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @bigsteppa05
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on projects that include coding
+- 👋 Hi, I’m Habib Mohamed
+- 👀 I’m interested in backend development
+- 🌱 I’m currently working as a freelance software developer
+- i am a graduate from Moringa School
+- 💞️ I’m looking to increase my experience on projects that challenge my coding abilites
 - 📫 How to reach me @habibforderiv05@gmail.com
-  
-- ⚡ Fun fact: im 18 years old
+- I primarily use flask for my backend development and sqlalchemy for my database
+- ⚡ Fun fact: im 17 years old 
 
 <!---
 bigsteppa05/bigsteppa05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
